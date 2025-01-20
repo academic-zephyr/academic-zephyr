@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋! I'm Junjie Qiu (Jay)
 
+- 🔭 I’m currently working on Sequential Modeling and Spatiotemporal Data Mining
+- 🌱 I’m currently thinking about how to make the world really better
+- 📫 How to reach me: junjie.qiu@ieee.org
+- 😄 Pronouns: He/him/his
 <!--
 **academic-gypsy/academic-gypsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
