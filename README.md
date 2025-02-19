@@ -1,9 +1,14 @@
 ## Hi there 👋! I'm Junjie Qiu (Jay)
 
-- 🔭 I’m currently working on Sequential Modeling and Spatiotemporal Data Mining
-- 🌱 I’m currently thinking about how to make the world really better
+- 🔭 I’m currently working on identifying the effective designs for time series modeling
 - 📫 How to reach me: junjie.qiu@ieee.org
 - 😄 Pronouns: He/him/his
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=Stats&username=academic-zephyr" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false&custom_title=Languages&exclude_repo=Quadrotor,netlify-blog,academic-zephyr.github.io&hide=jupyter%20notebook&username=academic-zephyr" height="150" alt="languages graph"  />
+</div>
+
 <!--
 **academic-gypsy/academic-gypsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
